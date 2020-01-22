@@ -1,8 +1,8 @@
 # Weather_Website
 
-Data is more powerful when we share it with others who are curious! Thia website reviels a statitcal visualizations using HTML, and CSS to create a dashboard showing off the analysis. The data was taken from an online API source: located off of the API. It consists of different pages of of visualizations of data.
+Data is more powerful when we share it with others who are curious! This website reveals a statitcal visualizations using HTML, and CSS to create a dashboard showing off a global weather analysis. The data was taken from an online API source: http://api.openweathermap.org. Open Weather allows their users to access current weather data for any location including over 200,000 cities, current weather is frequently updated based on global models and data from more than 40,000 weather stations,  and data that is available in JSON, XML, or HTML format. 
 
-The API was in JSON format and I used Jupyter Notebook to organize the data in a dataframe. The data frame also helped me create a proper statistical visualization.
+The API was in JSON format and I used Jupyter Notebook to organize the data in a dataframe. The dataframe helped me create a proper statistical visualization.
 
 ### Website Details!
 
