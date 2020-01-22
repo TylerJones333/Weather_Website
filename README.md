@@ -4,7 +4,7 @@ Data is more powerful when we share it with others who are curious! Thia website
 
 The API was in JSON format and I used Jupyter Notebook to organize the data in a dataframe. The data frame also helped me create a proper statistical visualization.
 
-### Website
+### Website Details!
 
 The website consists of 7 pages total, including:
 
